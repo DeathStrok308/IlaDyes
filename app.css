@@ -217,3 +217,11 @@ td{
     top: 0px;
     left: 0px;
 }
+
+.organizer div li{
+    line-height: 7vh;
+}
+
+.imageContainer{
+ width: 50%;
+}
